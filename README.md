@@ -1,7 +1,6 @@
 <h1 align="center">
   <span class="neon-text">Hi There! I'm Ketan Kunkalikar</span>
 </h1>
-<h3 align="center">An AI-Agentic Developer</h3>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
