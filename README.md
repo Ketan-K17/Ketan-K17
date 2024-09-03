@@ -1,43 +1,7 @@
 <h1 align="center">
-  <span class="neon-text">Hi There! I'm ![Ketan Kunkalikar](path-to-your-image.png)</span>
+  <span class="neon-text">Hi There! I'm Ketan Kunkalikar</span>
 </h1>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
-
-.neon-text {
-  font-family: 'Monoton', cursive;
-  font-size: 48px;
-  color: #fff;
-  text-shadow: 
-    0 0 5px #fff,
-    0 0 10px #fff,
-    0 0 20px #fff,
-    0 0 40px #0ff,
-    0 0 80px #0ff,
-    0 0 90px #0ff,
-    0 0 100px #0ff,
-    0 0 150px #0ff;
-  animation: flicker 1.5s infinite alternate;
-}
-
-@keyframes flicker {
-  0%, 18%, 22%, 25%, 53%, 57%, 100% {
-    text-shadow: 
-      0 0 5px #fff,
-      0 0 10px #fff,
-      0 0 20px #fff,
-      0 0 40px #0ff,
-      0 0 80px #0ff,
-      0 0 90px #0ff,
-      0 0 100px #0ff,
-      0 0 150px #0ff;
-  }
-  20%, 24%, 55% {       
-    text-shadow: none;
-  }
-}
-</style>
 <h3 align="center">An AI-Agentic Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketan-k17&label=Profile%20views&color=0e75b6&style=flat" alt="ketan-k17" /> </p>
