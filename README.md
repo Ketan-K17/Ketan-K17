@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span class="neon-text">Hi There! I'm Ketan Kunkalikar</span>
+  <span class="neon-text">Hi There! I'm ![Ketan Kunkalikar](path-to-your-image.png)</span>
 </h1>
 
 <style>
