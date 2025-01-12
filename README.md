@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/kunkalikarketan" target="blank"><img src="https://img.shields.io/twitter/follow/kunkalikarketan?logo=twitter&style=for-the-badge" alt="kunkalikarketan" /></a> </p>
 
-- 🌱 I’m currently learning **CrewAI, deploying LLM's on huggingface**
+- 🌱 I’m currently learning **about LLM architecture, and agent frameworks - Smolagents and Griptape in particular**
 
-- 👯 I’m looking to collaborate on **Any Agentic application**
+- 👯 I’m looking to collaborate on **Any Agentic application + anything to do with LLM's**
 
-- 💬 Ask me about **Langchain, LangGraph and AI-agents**
+- 💬 Ask me about **Langchain, LangGraph, Agentic frameworks and AI-agents in general**
 
 - 📫 How to reach me **ketankunkalikar33@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ex7fVFEpSVLLqiTAhCJIpA6SHVFCJxFb/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wyoNVQ13cWg4Q3CyfsBfYDQcbEwhFlyz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
