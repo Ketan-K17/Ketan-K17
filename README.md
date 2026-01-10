@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kunkalikarketan" target="blank"><img src="https://img.shields.io/twitter/follow/kunkalikarketan?logo=twitter&style=for-the-badge" alt="kunkalikarketan" /></a> </p>
 
-- 🌱 I’m currently learning **about LLM architecture, and agent frameworks - Smolagents and Griptape in particular**
+- 🌱 I’m currently learning **about LLM architecture, and agent frameworks**
 
 - 👯 I’m looking to collaborate on **Any Agentic application + anything to do with LLM's**
 
