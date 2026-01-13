@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ketankunkalikar33@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nfo-rxXj9wNyz4s2ia-37sjEvZ-39f9s/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1cSB45BpZCGeH8DcsyTW7Q_FglJCs-4M3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
