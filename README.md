@@ -2,7 +2,7 @@
   <span class="neon-text">Hi There! I'm Ketan Kunkalikar</span>
 </h1>
 
-<h3 align="center">An AI-Agentic Developer</h3>
+<h3 align="center">An AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketan-k17&label=Profile%20views&color=0e75b6&style=flat" alt="ketan-k17" /> </p>
 
